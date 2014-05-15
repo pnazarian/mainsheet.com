@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Skeleton Styles */
+
+* {
+	margin:0;
+}
+
+body {
+	background-color: #002240;
+}
+
+.logo img{
+padding-top:10px;
+padding-left:5px;
+}
+
+.imgWrapper {
+border: solid thin black;
+}
+
+.wrapper {
+font-family: Tahoma, Arial, sans-serif;
+margin: 0 auto;
+margin-top: 10px;
+background-color: #FFF;
+border-color: #000;
+border-style: solid;
+border-width: 2px;
+padding: 1%;
+width: 1150px;
+}
+
+form {
+font-family: Georgia, sarif;
+}
+
+h1, h2, h3 {
+font-family: Georgia, sarif;
+}
+
+h4 {
+font-family: Tahoma, Arial, sans-serif;
+}
+
+.focusTitle {
+text-align: center;
+text-decoration: underline;
+}
+
+.wrapper a {
+color: #3E6F7D;
+text-decoration: none;
+}
+
+#promoted
+{
+font-size: 15px;
+}
+
+#promoted a
+{
+font-size: 17px;
+}
+
+#standard
+{
+font-size: 14px;
+}
+
+#standard a
+{
+font-size: 15px;
+}
+
+#substandard
+{
+font-size: 13px;
+}
+
+#substandard a
+{
+font-size: 14px;
+}
+
+#toolbox p
+{
+padding: 7px;
+}
+
+.topnav {margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #000;
+	border-top: solid thin #777;
+	border-bottom: solid thin #777;
+}
+
+.topnav td {
+	text-align: center;
+	font-size: 17px;
+	color: #000;
+	border-left: dashed thin #777;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.content {
+	background-color: #FFF;
+	padding: 1%;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin-bottom: 20px;
+	line-height: 125%;
+}
+
+.searchData {
+	font-size: small;
+	color: #777;
+	line-height: 130%;
+}
+
+.titleData {
+	font-size: small;
+	color: #777;
+}
+
+.imageData {
+	font-family: Georgia, serif;
+	font-size: small;
+	font-weight: bold;
+}
+
+.footer {
+	margin: 10px;
+	text-align: center;
+	font-size: 12px;
+	font-family: Georgia, serif;
+	color: #FFF;
+}
+
+.footer a {
+	color: #FFF;
+}
+
+.fullTable td {
+	/*border: thin #777 solid;*/
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: #EEE;
+}
